@@ -1,0 +1,18 @@
+_id: env_eba090b9c05f4c72b4260bed1e67cfa3
+type: Environment
+parentId: env_870b391b12e000b3c3c8ba0acebd91530b34fe80
+modified: 1675708256126
+created: 1675707769888
+name: Lab:proxmox
+data:
+  PM_API_URL: https://192.168.1.253:8006/api2/json
+  PM_TOKEN_ID: api_user@pve!fec876e3-db45-42bf-bcbd-271c33b029bb
+  PM_SECRET: cf22105e-2fb8-426a-ac41-42e77ee1646a
+dataPropertyOrder:
+  "&":
+    - PM_API_URL
+    - PM_TOKEN_ID
+    - PM_SECRET
+color: "#ff9b29"
+isPrivate: false
+metaSortKey: 1675707769888

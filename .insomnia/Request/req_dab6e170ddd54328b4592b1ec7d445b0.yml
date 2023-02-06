@@ -1,0 +1,25 @@
+_id: req_dab6e170ddd54328b4592b1ec7d445b0
+type: Request
+parentId: wrk_6d4975c5dc9d48e4a63e7afac513decb
+modified: 1675708373003
+created: 1675707725894
+url: "{{ _.PM_API_URL }}/version"
+name: get version
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_971f5cf9e4e54b23be19e46692d67b70
+    name: Authorization
+    value: PVEAPIToken=api_user@pve!fec876e3-db45-42bf-bcbd-271c33b029bb=cf22105e-2fb8-426a-ac41-42e77ee1646a
+    description: ""
+authentication: {}
+metaSortKey: -1675707725894
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
